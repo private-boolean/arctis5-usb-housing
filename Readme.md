@@ -4,7 +4,9 @@ This repository contains a 3D model for a housing for the [Penglin USB-C Breakou
 
 ![printed model](assets/example.png)
 
-The following files are provided as-is. No guarantee is provided that they are suited to a particular task or that they will work in all circumstances.
+**This model requires a pair of countersunk M3x14mm screws, and matching nuts.**
+
+These files are provided as-is. No guarantee is provided that they are suited to a particular task or that they will work in all circumstances.
 
 These design files are distributed under the [Creative Commons BY 4.0 SA license](https://creativecommons.org/licenses/by-sa/4.0/). 
 
